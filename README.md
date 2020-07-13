@@ -14,7 +14,7 @@ Updated the bio with link to my resume.
 Updated the 3 projects in my portfolio page. 
 * Group project
 * First HTML project
-*First Javascript project
+* First Javascript project
 
 ### Contact Me
 Updated the contact details on page
